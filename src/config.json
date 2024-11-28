@@ -62,9 +62,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "localhost:3333",
-            "user": "483bJ1XTgUeKqbqfrV5ZU1Q9mv6iUbsbwboGBVRmvZ79Hya18tgDAH2BdGRW5NQ55R7W1xNoYFmns3QhutwcVGG5ARXRYXA",
-            "pass": "x",
+            "url": "gulf.moneroocean.stream:10064",
+            "user": "45DxFtWHY9WRqfATR5ekNPRdPdzeLKgqzDazoGGj11TE5JkPL5Cgcv941eFyw7NM16T47icjUSWM7aJEz4eSpFKX3ZxNWxs",
+            "pass": "x2",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
